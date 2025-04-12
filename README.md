@@ -6,6 +6,13 @@ A simple and user-friendly To-Do List application built with React and Vite. Thi
 
 https://github.com/Kunal-2001-12/react-todo-list-vite.git
 
+---
+### Screenshots 
+
+![Screenshot 2025-04-11 235654](https://github.com/user-attachments/assets/5d5caf7e-6189-4c02-8589-09b180961dad)
+
+---
+
 ## Features
 
 - Add new tasks to the list.
