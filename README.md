@@ -66,9 +66,13 @@ react-todo-list-vite/
 - Vite: For fast development and build tooling.
 - Bootstrap: For styling and responsive design.
 - JavaScript (ES6): For logic and functionality.
+  
+---
 
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
+
+---
 
 ### License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
